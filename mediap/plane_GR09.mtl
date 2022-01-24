@@ -1,7 +1,110 @@
 # Blender MTL File: 'None'
-# Material Count: 5
+# Material Count: 18
 
-newmtl Horse_Materi
+newmtl Basato_su_fenomeni_fisici.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.870588 0.870588 0.870588
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Basato_su_fenomeni_fisici_(3).001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Basato_su_fenomeni_fisici_(3).002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Basato_su_fenomeni_fisici_(4).001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 1.000000 0.090196
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Basato_su_fenomeni_fisici_(5).001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.549020 0.549020 0.549020
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Basato_su_fenomeni_fisici_(6).001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.980392 0.980392 0.980392
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Basato_su_fenomeni_fisici_(7).001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.647059 0.231373 0.639216
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Basato_su_fenomeni_fisici_(8).001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.282353 0.105882 0.843137
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 9
+
+newmtl Cuscino
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\oussb\\OneDrive - Politecnico di Torino\\desktop\\M.Arch\\DENTRO IL MUSEO\\MATERIALE\\Contesto Armeria_Percorso Ouss_embedded_files\\32_giallo_parma.jpg
+
+newmtl Granito_chiaro.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\oussb\\OneDrive - Politecnico di Torino\\desktop\\M.Arch\\DENTRO IL MUSEO\\MATERIALE\\Contesto Armeria_Percorso Ouss_embedded_files\\Granite light_300_DB.jpg
+map_Kd C:\\Users\\oussb\\OneDrive - Politecnico di Torino\\desktop\\M.Arch\\DENTRO IL MUSEO\\MATERIALE\\Contesto Armeria_Percorso Ouss_embedded_files\\Granite light_300_DB.jpg
+
+newmtl Horse_Materi.001
 Ns 179.999996
 Ka 1.000000 1.000000 1.000000
 Kd 0.172549 0.043137 0.019608
@@ -11,7 +114,18 @@ Ni 1.450000
 d 1.000000
 illum 2
 
-newmtl Material_3
+newmtl Legno_(2)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\oussb\\OneDrive - Politecnico di Torino\\desktop\\M.Arch\\DENTRO IL MUSEO\\MATERIALE\\Contesto Armeria_Percorso Ouss_embedded_files\\Legno.jpg
+
+newmtl Material_2
 Ns 179.999996
 Ka 1.000000 1.000000 1.000000
 Kd 0.980392 0.980392 0.980392
@@ -21,32 +135,53 @@ Ni 1.450000
 d 1.000000
 illum 3
 
-newmtl legno
-Ns 225.000000
+newmtl Material_2.001
+Ns 179.999996
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Kd 0.980392 0.980392 0.980392
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material_2.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.980392 0.980392 0.980392
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material_2.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.980392 0.980392 0.980392
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Plastica.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.196078 1.000000
+Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
 
-newmtl metallo
-Ns 225.000000
+newmtl golden_texture_by_japanstoc
+Ns 179.999996
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
-
-newmtl vetro
-Ns 225.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
+illum 3
+map_Kd C:\\Users\\oussb\\OneDrive - Politecnico di Torino\\desktop\\M.Arch\\DENTRO IL MUSEO\\MATERIALE\\Contesto Armeria_Percorso Ouss_embedded_files\\golden_texture_by_japanstoc.jpg
